@@ -1,0 +1,7 @@
+GitHub Configuration Notes
+
+Private Repository: Y390-I399-Fall2024/Y390lgottden
+Cloned Repository Location (On Local Machine): ~/Desktop/Y390/Y390lgottden
+
+Terminology (Review Definitions As Needed):
+GitHub, repo, fork, clone, upstream, commit, push, pull
