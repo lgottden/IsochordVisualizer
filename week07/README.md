@@ -1,1 +1,2 @@
-
+# Week 7 Report
+This week, I completed the Procedural Grid tutorial in a new Unity project, which I have uploaded to my week07 folder. I wrote the script to create the grid itself, and I also downloaded some normal maps from the Unity Asset Store, which I used to create a 3D material texture. I added this texture to my mesh; there is a screenshot of the textured mesh in this folder as well. I was not able to complete anything else this week, as I have been very busy with work for other courses. Next week, I would like to spend some more time experimenting with the mesh, hopefully figuring out how it can be scripted to behave as a dynamic isochord grid.
