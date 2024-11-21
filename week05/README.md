@@ -1,0 +1,3 @@
+# Week 5 Report
+
+I spent this past week working on various Unity tutorial projects, including the Robot-Arm, Intro-to-Scripting, and Robot-Arm-Scripting projects. I also completed the Roll-a-Ball tutorial from the Unity website (through the "Moving the Camera" section); I have uploaded all of these projects to the week05 folder in my individual GitHub repository.
