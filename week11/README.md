@@ -1,0 +1,3 @@
+# Week 11 Report
+
+This week, I spent some time developing a working build for my VisualizationDemo project. I was able to accomplish this, except for the fact that the Gizmos (the white dots on the vertices of the isochord grid) won't display in the build; I think this is because Gizmos are designed to be debugging objects, and they are not supposed to show up in working projects. I also added octaves to my note identification function; this makes it much easier to see harmonic relationships on the grid. Finally, I added text labels under each grid vertex displaying the note name that the vertex represents. This makes the grid much more readable to someone who is unfamiliar with isochords.
